@@ -1,2 +1,2 @@
 alert("hello")
-console.log("We are the best wizard's guild")
+console.log("NEW CONSOLE LOG")
